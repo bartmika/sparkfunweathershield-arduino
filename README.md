@@ -44,6 +44,10 @@ For example, on my screen the value is ``/dev/cu.usbmodem14401``.
 
 **Please save your value as you will need it!** More specifically, you'll need it in the [serialreader-server](https://github.com/bartmika/serialreader-server) code repository.
 
+## Usage
+
+This code is designed to provide a polling service interface which is consumed by the [serialreader-server](https://github.com/bartmika/serialreader-server) application. Please see that repository on details for usage.
+
 ## License
 
 This application is licensed under the **BSD 3-Clause License**. See [LICENSE](LICENSE) for more information.
