@@ -20,6 +20,12 @@ First step after having assembled the shield is you will need to **download** th
 
 Then highlight all the code in the **terminal** and delete it. Afterwards please go to our [sparkfunweathershield-adruino.ino](https://raw.githubusercontent.com/bartmika/sparkfunweathershield-arduino/master/src/sparkfunweathershield-adruino/sparkfunweathershield-adruino.ino) to copy and paste the code in there into your *Arduino IDE*.
 
+Please install the following libraries using the **Arduino Library Manager**:
+
+* [ArduinoJson](https://arduinojson.org/)
+* [SparkFun MPL3115](https://github.com/sparkfun/MPL3115A2_Breakout)
+* [SparkFun Si7021](https://github.com/sparkfun/SparkFun_Si701_Breakout_Arduino_Library)
+
 Click save and save the file somewhere, afterwords click the **Verify** button and you should see a success message as follows:
 
 ![](https://github.com/bartmika/sparkfunweathershield-arduino/blob/master/media/2.png)
